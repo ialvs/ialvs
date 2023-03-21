@@ -1,7 +1,7 @@
 - 👋 Oi, eu sou Ian Alves...
 - 👀 Estou interessado em desenvolver novas habilidades e conhecimentos na área de tecnologias, 
 - principalmente desenvolvimento Web Backend
-- 🌱 Estou aprendendo JavaScript
+- 🌱 Estou aprendendo JavaScript no curso de Desenvolvimento Backend da Cubos Academy
 - 👨‍💻 Estou em busca do meu primeiro emprego como desenvolvedor
 - 📫 Entre em contato em ian.santos.alves@hotmail.com ou www.linkedin.com/in/ian-alves-
 
