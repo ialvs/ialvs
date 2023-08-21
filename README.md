@@ -11,6 +11,7 @@ Linguagens e tecnologias com as quais tenho segurança:
 - Express
 - NestJS
 - SQL (PostgreSQL, SQLite)
+- MongoDB
 
 Linguagens e tecnologias com as quais tive contato:
 - HTML
